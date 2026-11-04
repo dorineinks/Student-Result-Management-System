@@ -1,0 +1,59 @@
+STUDENT RESULT MANAGEMENT SYSTEM
+CLASS PERFORMANCE REPORT
+========================================
+
+Student ID: STU004
+Name: Abike Oluronje
+Class: SS1
+Total: 400.0
+Average: 80.00
+Grade: A
+----------------------------------------
+
+Student ID: STU001
+Name: Okon David
+Class: SS1
+Total: 310.0
+Average: 62.00
+Grade: B
+----------------------------------------
+
+Student ID: STU002
+Name: Sandra Akinmade
+Class: SS2
+Total: 376.0
+Average: 75.20
+Grade: A
+----------------------------------------
+
+Student ID: STU003
+Name: Dorine Iteye
+Class: SS3
+Total: 485.0
+Average: 97.00
+Grade: A
+----------------------------------------
+
+Student ID: STU005
+Name: Kingsley Uche
+Class: SS3
+Total: 450.0
+Average: 90.00
+Grade: A
+----------------------------------------
+
+Student ID: STU006
+Name: Steven Okache
+Class: SS1
+Total: 147.0
+Average: 29.40
+Grade: F
+----------------------------------------
+
+Student ID: STU007
+Name: Musa Gloria
+Class: SS2
+Total: 252.0
+Average: 50.40
+Grade: C
+----------------------------------------

@@ -1,0 +1,100 @@
+[
+    {
+        "student_id": "STU004",
+        "full_name": "Abike Oluronje",
+        "class_form": "SS1",
+        "gender": "Female",
+        "date_of_birth": "2007-09-09",
+        "scores": {
+            "Mathematics": 90.0,
+            "English": 80.0,
+            "Biology": 80.0,
+            "Chemistry": 70.0,
+            "Physics": 80.0
+        }
+    },
+    {
+        "student_id": "STU001",
+        "full_name": "Okon David",
+        "class_form": "SS1",
+        "gender": "Male",
+        "date_of_birth": "08/08/2008",
+        "scores": {
+            "Mathematics": 90.0,
+            "English": 50.0,
+            "Biology": 60.0,
+            "Chemistry": 32.0,
+            "Physics": 78.0
+        }
+    },
+    {
+        "student_id": "STU002",
+        "full_name": "Sandra Akinmade",
+        "class_form": "SS2",
+        "gender": "Female",
+        "date_of_birth": "09/07/2007",
+        "scores": {
+            "Mathematics": 89.0,
+            "English": 76.0,
+            "Biology": 43.0,
+            "Chemistry": 78.0,
+            "Physics": 90.0
+        }
+    },
+    {
+        "student_id": "STU003",
+        "full_name": "Dorine Iteye",
+        "class_form": "SS3",
+        "gender": "Female",
+        "date_of_birth": "08/05/2005",
+        "scores": {
+            "Mathematics": 95.0,
+            "English": 98.0,
+            "Biology": 97.0,
+            "Chemistry": 98.0,
+            "Physics": 97.0
+        }
+    },
+    {
+        "student_id": "STU005",
+        "full_name": "Kingsley Uche",
+        "class_form": "SS3",
+        "gender": "Male",
+        "date_of_birth": "23/02/2005",
+        "scores": {
+            "Mathematics": 90.0,
+            "English": 90.0,
+            "Biology": 90.0,
+            "Chemistry": 90.0,
+            "Physics": 90.0
+        }
+    },
+    {
+        "student_id": "STU006",
+        "full_name": "Steven Okache",
+        "class_form": "SS1",
+        "gender": "Male",
+        "date_of_birth": "05/05/2008",
+        "scores": {
+            "Mathematics": 30.0,
+            "English": 30.0,
+            "Biology": 43.0,
+            "Chemistry": 42.0,
+            "Physics": 2.0
+        }
+    },
+    {
+        "student_id": "STU007",
+        "full_name": "Musa Gloria",
+        "class_form": "SS2",
+        "gender": "Female",
+        "date_of_birth": "08/09/2007",
+        "scores": {
+            "Mathematics": 50.0,
+            "English": 51.0,
+            "Biology": 90.0,
+            "Chemistry": 21.0,
+            "Physics": 40.0
+        }
+    }
+]
