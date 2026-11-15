@@ -41,23 +41,10 @@ The Student Result Management System is a Python-based application designed to m
 - JSON
 - Visual Studio Code
 
-## Project Structure
-
-```text
-student_result_system/
-├── main.py
-├── student.py
-├── results.py
-├── storage.py
-├── reports.py
-├── README.md
-├── data/
-│   └── students.json
-└── class_report.txt
-```
 
 ## Data Storage
 Student information and academic results are stored in a JSON file located in the `data` folder.
 
 ## Author
-Dorine
+Iteye Dorine
+
